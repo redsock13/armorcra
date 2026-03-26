@@ -1,0 +1,45 @@
+{
+  "name": "armorcra",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "postinstall": ""
+  },
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "next": "15.3.9",
+    "node-fetch": "^3.3.2",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "description": "",
+  "main": "next.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redsock13/armorcra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redsock13/armorcra/issues"
+  },
+  "homepage": "https://github.com/redsock13/armorcra#readme"
+}
